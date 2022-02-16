@@ -27,7 +27,7 @@ namespace Diamante.ConsoleApp
                     if (metadeA == 0) {
                         parte2++;
                     }
-                    if (contador == x) {
+                    if (contador == x) { 
                         contador = 0;
                         metadeA--;
                         metadeB++;
